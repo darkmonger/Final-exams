@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHGckTtfsZYM86EJvvZNHpf15PsPWPCnqHzpo4aPTdjCgJoJhmHQubYoOvpXynzNzfO7zS8pOE0pRtIBQU0ASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\armi0\\source\\repos\\smartphone_main\\smartphone_main\\smartphone_main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

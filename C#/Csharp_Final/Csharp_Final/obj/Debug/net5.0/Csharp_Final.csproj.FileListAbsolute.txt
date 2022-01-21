@@ -1,0 +1,16 @@
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.exe
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.deps.json
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.runtimeconfig.json
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.runtimeconfig.dev.json
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.dll
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\ref\Csharp_Final.dll
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\bin\Debug\net5.0\Csharp_Final.pdb
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.csproj.AssemblyReference.cache
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.AssemblyInfoInputs.cache
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.AssemblyInfo.cs
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.csproj.CoreCompileInputs.cache
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.dll
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\ref\Csharp_Final.dll
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.pdb
+C:\Users\armi0\source\repos\Csharp_Final\Csharp_Final\obj\Debug\net5.0\Csharp_Final.genruntimeconfig.cache

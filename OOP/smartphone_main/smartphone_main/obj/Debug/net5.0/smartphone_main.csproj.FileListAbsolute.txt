@@ -1,0 +1,5 @@
+C:\Users\armi0\source\repos\smartphone_main\smartphone_main\obj\Debug\net5.0\smartphone_main.csproj.AssemblyReference.cache
+C:\Users\armi0\source\repos\smartphone_main\smartphone_main\obj\Debug\net5.0\smartphone_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armi0\source\repos\smartphone_main\smartphone_main\obj\Debug\net5.0\smartphone_main.AssemblyInfoInputs.cache
+C:\Users\armi0\source\repos\smartphone_main\smartphone_main\obj\Debug\net5.0\smartphone_main.AssemblyInfo.cs
+C:\Users\armi0\source\repos\smartphone_main\smartphone_main\obj\Debug\net5.0\smartphone_main.csproj.CoreCompileInputs.cache
